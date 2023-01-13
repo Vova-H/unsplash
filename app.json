@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bc3424d8-2e26-4115-ab31-d49a52943568"
+      }
+    },
+    "owner": "vova-h"
   }
 }
